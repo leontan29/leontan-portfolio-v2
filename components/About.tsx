@@ -100,7 +100,10 @@ export default function About() {
                 After UCSD I pursued a Master&apos;s in Computer Science at the University of Illinois Urbana Champaign to deepen my technical foundation. During my master&apos;s I took on a Presales Engineering internship at Vitesse Data where I worked directly with enterprise clients. My job was to translate complex database systems into clear business value. Sitting in those conversations with engineers and executives reminded me of what I loved about product work and brought me back to pursuing it full time.
               </p>
               <p>
-                Most recently I built and shipped Munch, an AI powered restaurant discovery app. I treated it as a deliberate experiment: how far could a product thinker get by using AI as an engineering team? I made every product decision myself and used tools like Claude to write the code. The result was a working deployed app built in weeks. I believe PMs who know how to build with AI will have an outsized edge and Munch was my way of proving that to myself.
+                Most recently I built and shipped Munch, an AI powered restaurant discovery app. I treated it as a deliberate experiment: how far could a product thinker get by using AI as an engineering team? I made every product decision myself and used Claude Code and similar AI coding agents to build and ship the product. The result was a working deployed app built in weeks. I believe PMs who know how to build with AI will have an outsized edge and Munch was my way of proving that to myself.
+              </p>
+              <p>
+                For Slate Cards, I built a native iOS app in SwiftUI using Claude Code, shipping it through the full App Store review process.
               </p>
               <p>
                 My goal is to work on problems where understanding people matters as much as understanding systems.

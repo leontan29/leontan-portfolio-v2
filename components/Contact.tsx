@@ -37,7 +37,7 @@ export default function Contact() {
             visible ? "visible" : ""
           }`}
         >
-          I&apos;m currently open to product manager roles. Feel free to reach
+          I&apos;m currently open to product, solutions, and AI-powered roles. Feel free to reach
           out.
         </p>
         <div
